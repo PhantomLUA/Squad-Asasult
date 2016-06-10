@@ -1,0 +1,7 @@
+"squad"
+{
+	"base"		"sandbox"
+	"title"		"Squad Assault"
+	"maps"		""
+	"menusystem" "1"
+}
